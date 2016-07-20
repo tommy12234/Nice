@@ -14,4 +14,4 @@ Quite | Quite
 
 ```Cool```
 
-``` - [x] I like chocolate pudding ```
+- [x] I like chocolate pudding
