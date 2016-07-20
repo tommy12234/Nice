@@ -17,5 +17,4 @@ Quite | Quite
 Nice
 ```
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://www.youtube.com/watch?v=j0dY6guTpWA" data-icon="octicon-eye" data-style="mega" data-count-href="/ntkme/github-buttons/watchers" data-count-api="/repos/ntkme/github-buttons#subscribers_count" data-count-aria-label="# watchers on GitHub" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
+<img src= "https://www.youtube.com/watch?v=j0dY6guTpWA" width=200 height=150>
