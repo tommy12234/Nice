@@ -11,3 +11,7 @@ Very | Very
 Quite | Quite
 
 :smile:
+
+```Cool```
+
+``` - [x] I like chocolate pudding ```
