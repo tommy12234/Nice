@@ -12,6 +12,4 @@ Quite | Quite
 
 :smile:
 
-```Cool```
-
-- [x] I like chocolate pudding
+- [x] Hi
